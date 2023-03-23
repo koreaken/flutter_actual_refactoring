@@ -37,4 +37,4 @@ Refactored code from Codefactory's Flutter course
   +svg 이미지 연동
 ----------
 ### Preview
-![](https://github.com/koreaken/flutter_actual_refactoring/screenshot/preview.gif)
+![](https://github.com/koreaken/flutter_actual_refactoring/blob/develop/screenshot/preview.gif)
