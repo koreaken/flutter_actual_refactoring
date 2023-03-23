@@ -25,16 +25,20 @@ Refactored code from Codefactory's Flutter course
 + 라이브러리 최신 버전으로 상향 및 코드 개선
 + 패키지 구성 변경
   + 서비스 화면 별 디렉토리 분류 -> 기능 디렉토리로 분류 변경
-  > as is
+  + as is
     > 서비스 화면
       > 기능
-  > to be
+  + to be
     > 기능
       > 서비스 화면
 + 이미지 변경
   + 강의 과정에서 사용한 임시 이미지 삭제
   +로고 이미지를 Flutter 로고 대체
   +svg 이미지 연동
++ Pagination Error 개선
+  + Throttling 적용 후, 새로 고침 불가능하고 Throttling 적용 전은 새로 고침 가능한 오류
+    + 리스트가 짧은 경우, pagination 조건이 계속 충족되면서 페이징이 계속되는 오류
+    + 서버 응답 기준으로 데이터가 더 있는 경우만 조건 실행으로 개선
 ----------
 ### Preview
 ![](https://github.com/koreaken/flutter_actual_refactoring/blob/develop/screenshot/preview.gif)
