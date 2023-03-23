@@ -36,12 +36,5 @@ Refactored code from Codefactory's Flutter course
   +로고 이미지를 Flutter 로고 대체
   +svg 이미지 연동
 ----------
-### Screenshots
-1. [Splash](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/splash.png)]
-2. [로그인](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/login.png)]
-3. [레스토랑](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/restaurant.png)]
-4. [레스토랑 상세](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/restaurant_detail.png)]
-5. [장바구니](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/basket.png)]
-6. [주문완료](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/order_done.png)]
-7. [주문목록](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/orderlist.png)]
-8. [음식](https://github.com/koreaken/flutter_actual_refactoring)[![watch](screenshot/food.png)]
+### Preview
++ <img src="https://github.com/koreaken/flutter_actual_refactoring/screenshot/preview.png />
