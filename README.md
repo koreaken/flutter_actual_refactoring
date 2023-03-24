@@ -42,13 +42,13 @@ Refactored code from Codefactory's Flutter course
 + JsonSerializable & Dio 5.x 에서 toJson 오류 개선
   + 인스턴스까지 toJson 명시적으로 선언
   + Example of explicitToJson: false (default)
-  '''
+  ```
   Map<String, dynamic> toJson() => {'child': child};    
-  '''
+  ```
   + Example of explicitToJson: true
-  '''
+  ```
   Map<String, dynamic> toJson() => {'child': child?.toJson()};
-  '''
+  ```
 ----------
 ### Preview
 ![](https://github.com/koreaken/flutter_actual_refactoring/blob/develop/screenshot/preview.gif)
